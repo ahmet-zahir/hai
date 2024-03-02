@@ -1,0 +1,25 @@
+.main {
+    /* background-color: aliceblue; */
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+}
+
+.container {
+    background-color: aliceblue;
+    width: 95vw;
+    height: calc(100vh - 85px);
+    margin: 7px auto 0;
+    /* align-items: center; */
+    display: block;
+    justify-content: start center;
+}
+
+.pencarian {
+    /* display: inline-block; */
+    margin: auto;
+    width: 50vw;
+    height: 25px;
+    /* transform: translatey(); */
+    /* position: absolute; */
+}
